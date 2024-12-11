@@ -1,0 +1,54 @@
+<es>
+<fingers>
+	<finger>
+		<name>Pulgar</name>
+		<ID>0</ID>
+	</finger>
+		<finger>
+		<name>Indice</name>
+		<ID>1</ID>
+	</finger>
+		<finger>
+		<name>Medio</name>
+		<ID>2</ID>
+	</finger>
+		<finger>
+		<name>Anular</name>
+		<ID>3</ID>
+	</finger>
+		<finger>
+		<name>Meñique</name>
+		<ID>4</ID>
+	</finger>
+		<finger>
+		<name>Ninguno</name>
+		<ID>5</ID>
+	</finger>
+</fingers>
+<calibration>
+	<text>Por favor mueve tu dedo </text>
+	<text>.</text>
+	<text>Tomando muestra número </text>
+	<text> de </text>
+	<text>Por favor no muevas ningún dedo.</text>
+</calibration>
+<accuracy>
+	<text>Por favor mueve tu dedo </text>
+	<text>.</text>
+	<text>Por favor mueve cualquier dedo</text>
+    <text>y aprieta la tecla que le corresponde (1 al 5).</text>
+	<text>Precisión: </text>
+	<text>%</text>
+	<text>Si es que mueves un dedo y no es detectado presiona la barra de espacio.</text>
+    <random>Aleatorio</random>
+    <manual>Manual</manual>
+</accuracy>
+<buttons>
+	<calibrate>Calibración</calibrate>
+	<accuracy>Prueba precisión</accuracy>
+	<load>Cargar perfil</load>
+	<save>Guardar perfil</save>
+	<euc>Clasificador Euclidio</euc>
+	<svm>Clasificador SVM</svm>
+</buttons>
+</es>

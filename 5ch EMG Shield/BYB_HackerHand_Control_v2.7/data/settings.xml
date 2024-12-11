@@ -1,0 +1,13 @@
+<group>
+	<loPass_Size>18</loPass_Size>
+	<use_Lo_Pass>0</use_Lo_Pass>
+	<loPass_Factor>0.3</loPass_Factor>
+	<slopeThreshold>10</slopeThreshold>
+	<peakDetSize>15</peakDetSize>
+	<Peak_Attack_Threshold>45.91</Peak_Attack_Threshold>
+	<Peak_Decay_Threshold>5.485</Peak_Decay_Threshold>
+<group/>
+	<Use_Lo_Pass>0</Use_Lo_Pass>
+	<Num_Samples_per_finger>5</Num_Samples_per_finger>
+	<overlay_GUI_opacity>255</overlay_GUI_opacity>
+</group>

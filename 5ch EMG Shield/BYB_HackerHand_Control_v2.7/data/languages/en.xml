@@ -1,0 +1,54 @@
+<en>
+<fingers>
+	<finger>
+		<name>Thumb</name>
+		<ID>0</ID>
+	</finger>
+	<finger>
+		<name>Index</name>
+		<ID>1</ID>
+	</finger>
+	<finger>
+		<name>Middle</name>
+		<ID>2</ID>
+	</finger>
+	<finger>
+		<name>Ring</name>
+		<ID>3</ID>
+	</finger>
+	<finger>
+		<name>Pinky</name>
+		<ID>4</ID>
+	</finger>
+	<finger>
+		<name>None</name>
+		<ID>5</ID>
+	</finger>
+</fingers>
+<calibration>
+	<text>Please move your </text>
+	<text> finger.</text>
+	<text>Taking sample number </text>
+	<text> of </text>
+	<text>Please don't move any finger.</text>
+</calibration>
+<accuracy>
+	<text>Please move your </text>
+	<text> finger.</text>
+	<text>Please move any finger</text>
+    <text>and press its corresponding keyboard button (1 to 5). </text>
+	<text>Accuracy: </text>
+	<text>%</text>
+	<text>If you move a finger and it's not detected press the space bar.</text>
+    <random>Random</random>
+    <manual>Manual</manual>
+</accuracy>
+<buttons>
+	<calibrate>Calibrate</calibrate>
+	<accuracy>Accuracy Test</accuracy>
+	<load>Load Profile</load>
+	<save>Save Profile</save>
+	<euc>Euclidean Classifier</euc>
+	<svm>SVM Classifier</svm>
+</buttons>
+</en>
